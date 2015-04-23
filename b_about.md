@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About
+title: 关于
 comments: yes
 permalink: /about/
 ---
 
-
+敬请期待...
+<!--
 ### Freshman21 is a Jekyll theme.
 
 A tribute to Twenty Twelve and Twenty eleven.
 
-I like wordpress's theme Twenty Twelve and Twenty eleven very much. 
+I like wordpress's theme Twenty Twelve and Twenty eleven very much.
 So I called my Jekyll theme Freshman21 (Freshman <q>twenty-first</q> , it means twenty-first century, not twenty-one), this theme is based on my former theme [Freshman](https://github.com/yulijia/freshman/).
 
 Freshman21 have two main page format, one is [single column](http://yulijia.net/en/  "see demo"), the other is two columns. For more details, please see the articles on the site.
@@ -21,7 +22,4 @@ Freshman21 have two main page format, one is [single column](http://yulijia.net/
 
 #### Hi, the picture you have seen in the sample-page is a Père David's deer photoed by my friend at Beijing Milu Park, China.
 
-Milu(麋鹿) is the chinese name of Père David's deer.
-
-
-
+Milu(麋鹿) is the chinese name of Père David's deer. -->

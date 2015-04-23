@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Home
+title: 首页
 permalink: /
 ---
-
