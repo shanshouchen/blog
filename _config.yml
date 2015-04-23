@@ -12,7 +12,7 @@ locale: cn_ZH
 ### Personal info and site tools info:
 twitter_username: shanshouchen
 github_username:  shanshouchen
-disqus_shortname: freshman21
+disqus_shortname: ImBug #from disqus.com
 favicon:     "/images/favicon.ico"
 aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
 aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg # your photo.
