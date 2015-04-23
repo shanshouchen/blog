@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Categories
+title: 分类
 permalink: /categories/
 ---
 
@@ -23,4 +23,3 @@ permalink: /categories/
 <span>No posts</span>
 {% endif %}
 </ul>
-
