@@ -10,8 +10,8 @@ url: "http://yulijia.net/freshman21" # the base hostname & protocol for your sit
 locale: cn_ZH
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
+twitter_username: shanshouchen
+github_username:  shanshouchen
 disqus_shortname: freshman21
 favicon:     "/images/favicon.ico"
 aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
