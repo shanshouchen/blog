@@ -1,6 +1,6 @@
 ### Site info:
 title: ImBug
-tagline: Another Jekyll theme, Freshman twenty-first
+tagline: 开放/自由/平等
 author: shanshouchen
 email: shanshouchen@gmail.com
 description: "Shanshouchen's blog" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
@@ -10,11 +10,11 @@ url: "http://yulijia.net/freshman21" # the base hostname & protocol for your sit
 locale: cn_ZH
 
 ### Personal info and site tools info:
-twitter_username: shanshouchen
+twitter_username: #you twitter name
 github_username:  shanshouchen
 disqus_shortname: ImBug #from disqus.com
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
+aboutme: Hi, 后台研发攻城狮一头 ^O^. # these are shown on aboutme-sidebar.
 aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg # your photo.
 
 
