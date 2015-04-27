@@ -67,4 +67,4 @@ Blogroll:
 markdown: kramdown
 highlighter: pygments
 paginate: 5
-permalink: /404.md
+permalink: /404.html
